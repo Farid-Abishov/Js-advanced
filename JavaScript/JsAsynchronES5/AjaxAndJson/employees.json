@@ -1,0 +1,28 @@
+[
+{
+    "name":"Farid Abishov Razi",
+     "department":"IT",
+     "salary":"1000"
+},
+{
+    "name":"Ali Abishov Razi",
+     "department":"Project Management",
+     "salary":"3000"
+},
+{
+    "name":"Nurlan Sultanov Emin",
+     "department":"IT",
+     "salary":"1300"
+},
+{
+    "name":"Emin Babayev Anar",
+     "department":"Marketing",
+     "salary":"700"
+},
+{
+    "name":"Nahid Sirinov Ruhid",
+     "department":"IT",
+     "salary":"800"
+}
+
+]

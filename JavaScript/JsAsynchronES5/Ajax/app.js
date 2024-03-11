@@ -14,7 +14,7 @@ Btn.addEventListener("click",function(){
     
     xhr.onload=function(){  //bu function sadece response hazir olanda isleir
      if(this.status==200){
-        // console.log(this.responseText);
+        console.log(this.responseText);
         Ajax.textContent=this.responseText; //div'in icine yazdiq response'u
      }
     }
