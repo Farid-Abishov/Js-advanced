@@ -10,10 +10,8 @@ function change(){
     xhr.onload=function(){
         if(this.status==200){
             const response=JSON.parse(this.responseText)
-            console.log(response);
             const rate=response.rates.AZN;
             const amount=Number(InputAmount.value);
-
             inputazn.value=amount*rate;
         }
     }
